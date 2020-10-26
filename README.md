@@ -4,6 +4,8 @@ Hi there 👋
 
 I am currently working with Pratilipi as a Full Stack Engineer. Trying to make world's largest storytelling platform. I am usually seen quite energized for building stuff. My tools currently consists of Nodejs, Golang and Vue.
 
+![Mohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ms10398)
+
 <!--
 **ms10398/ms10398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
