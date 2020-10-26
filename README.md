@@ -1,22 +1,29 @@
-### Mohit Sharma
+Account age: **3** years
 
-Hi there 👋
+Pushed **345** commits
 
-I am currently working with Pratilipi as a Full Stack Engineer. Trying to make world's largest storytelling platform. I am usually seen quite energized for building stuff. My tools currently consists of Nodejs, Golang and Vue.
+Opened **71** issues
 
-![Mohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ms10398)
+Submitted **118** pull requests
 
-<!--
-**ms10398/ms10398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Received **2** stars
 
-Here are some ideas to get you started:
+Own **69** repositories
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contributed to **13** public repositories
+
+Top 8 most used languages across your repositories:
+
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B165.3%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B119.7%25)
+![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B19.9%25)
+![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B13.3%25)
+![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B11.3%25)
+![Vue](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%232c3e50&message=Vue%EF%B8%B10.2%25)
+
+Top 4 most used languages across your repositories:
+
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B165.3%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B119.7%25)
+![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B19.9%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B14.9%25)
