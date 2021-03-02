@@ -6,7 +6,7 @@ I am currently working with Pratilipi as a Full Stack Engineer. Trying to make w
 
 Account age: **3** years
 
-Pushed **347** commits
+Pushed **345** commits
 
 Opened **71** issues
 
