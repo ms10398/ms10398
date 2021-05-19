@@ -6,11 +6,11 @@ I am currently working with Pratilipi as a Full Stack Engineer. Trying to make w
 
 Account age: **4** years
 
-Pushed **350** commits
+Pushed **344** commits
 
 Opened **71** issues
 
-Submitted **122** pull requests
+Submitted **121** pull requests
 
 Received **2** stars
 
